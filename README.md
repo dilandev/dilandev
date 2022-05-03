@@ -1,5 +1,5 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my page!
-I’m Dilan Ramanayaka(@dilandev), a computer science undergraduate and a full stack developer from <img src="https://user-images.githubusercontent.com/69090976/166183645-46552283-ea45-4ca0-9913-6ab5199aed07.png" width="13"/> Sri Lanka. 
+I’m Dilan Ramanayaka(@dilandev), a computer science undergraduate and a full-stack developer from <img src="https://user-images.githubusercontent.com/69090976/166183645-46552283-ea45-4ca0-9913-6ab5199aed07.png" width="13"/> Sri Lanka. 
 
 #### <a href="#"><img src="https://user-images.githubusercontent.com/69090976/166184596-0a143f7a-7362-4a09-9c65-13f3806373f1.png" width="15"/></a> Things I code with,
 <p>
