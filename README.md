@@ -21,6 +21,9 @@ I’m Dilan Ramanayaka(@dilandev), a computer science undergraduate and a full-s
 
 #### 📫 Reach out to me using,
 
+<a href="mail-to:dilanramanayaka97@gmail.com">
+  <img align="left" alt="Email" width="28px" src="https://img.icons8.com/emoji/344/e-mail.png" />
+</a>
 <a href="https://www.linkedin.com/in/dilan-ramanayaka/">
   <img align="left" alt="Linkdin" width="28px" src="https://img.icons8.com/fluency/344/linkedin.png" />
 </a>
